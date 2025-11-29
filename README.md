@@ -1,5 +1,8 @@
 # 🛡️ SentinelGuard – Advanced Vulnerability Scanner  
 
+| <img width="1280" height="640" alt="Sentinel" src="https://github.com/user-attachments/assets/ef1dd7e6-a84a-486f-b450-4d1f90f4f38f" /> |
+|---|
+
 - ©Thorsten Bylicki | ©BYLICKILABS  
 - Version 1.0.0
 - Support Language DE/EN
