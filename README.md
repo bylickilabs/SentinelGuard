@@ -1,8 +1,8 @@
 # 🛡️ SentinelGuard – Advanced Vulnerability Scanner  
-©Thorsten Bylicki | ©BYLICKILABS  
-Version 1.0.0
-Support Language DE/EN
-Repository: [https://github.com/bylickilabs/SentinelGuard](https://github.com/bylickilabs/SentinelGuard)
+
+- ©Thorsten Bylicki | ©BYLICKILABS  
+- Version 1.0.0
+- Support Language DE/EN
 
 ---
 
