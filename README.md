@@ -12,7 +12,6 @@
 |-----------|-------|--------------|
 | **Version & Release** | ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) | Current stable release |
 | **Build Status** | ![Build Status](https://img.shields.io/github/actions/workflow/status/bylickilabs/SentinelGuard/python-app.yml?branch=main) | CI/CD Pipeline status |
-| **CodeQL Security Scan** | ![CodeQL](https://github.com/bylickilabs/SentinelGuard/actions/workflows/codeql.yml/badge.svg) | Automated security scan |
 | **License** | ![License: MIT](https://img.shields.io/badge/license-MIT-green.svg) | Open source license |
 | **Python Version** | ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg) | Supported versions |
 | **Platform** | ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey.svg) | Compatible OS |
