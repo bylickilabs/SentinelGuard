@@ -2,7 +2,6 @@
 # Developed by ©Thorsten Bylicki | ©BYLICKILABS
 # Version 1.0.0
 
-tkinter
 requests
 colorama
 regex
