@@ -1,0 +1,9 @@
+# Sentinel Guard – Vulnerability Scanner
+# Developed by ©Thorsten Bylicki | ©BYLICKILABS
+# Version 1.0.0
+
+tkinter               # GUI framework (standard in Python, listed for clarity)
+requests>=2.31.0      # HTTP client library (used in security checks)
+colorama>=0.4.6       # Optional: colored terminal output for logs
+regex>=2023.10.3      # Enhanced regex engine for advanced pattern matching
+pyyaml>=6.0.2         # For potential YAML parsing of configuration files
